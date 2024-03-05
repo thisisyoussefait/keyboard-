@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+#mydiv1{
+    text-align: center;
+    padding: 5px;
+}
+#mydiv2{
+    text-align: center;
+    padding: 5px;
+}
+#mydiv3{
+    text-align: center;
+    padding: 5px;
+}
+#mydiv0{
+    text-align: center;
+    padding: 5px;
+}
+#myinput{
+    width: 300px;
+    height: 100px;
+}
+
+#mydiv4{
+    text-align: center;
+    padding: 5px;
+}
+
+#mydiv6{
+    text-align: center;
+    padding: 5px;
+}
+#b11{
+    width: 120px;
+    height: 20px;
+}
+#mybutton27{
+    
+}
+
